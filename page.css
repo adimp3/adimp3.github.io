@@ -1,0 +1,22 @@
+.page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: flex-start;
+  background-image: url('https://static.vecteezy.com/ti/gratis-vektor/p3/3188503-gruselig-clown-gesicht-auf-weissem-hintergrund-kostenlos-vektor.jpg');
+}
+.page-navlink {
+  top: 48px;
+  left: 45px;
+  width: 201px;
+  height: 99px;
+  position: absolute;
+  font-size: 23px;
+  font-weight: 500;
+  line-height: 4;
+  text-decoration: none;
+}
